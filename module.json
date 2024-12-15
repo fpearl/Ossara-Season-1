@@ -79,5 +79,5 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/fpearl/Ossara-Season-1/refs/heads/main/module.json",
-    "download": "https://raw.githubusercontent.com/fpearl/Ossara-Season-1/refs/heads/main/ossara-season-1.zip"
+    "download": "https://ossara-season-1.s3.us-east-2.amazonaws.com/ossara-season-1.zip"
   }
