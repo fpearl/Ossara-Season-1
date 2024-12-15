@@ -3,7 +3,7 @@
     "name": "ossara-season-1",
     "title": "Driftworld Ossara Season One",
     "description": "Essential content for driftworld Ossara.",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "authors": [
         {
             "name": "Frederic Pearl",
@@ -78,6 +78,6 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/fpearl/Ossara-Season-1/refs/heads/main/module.json",
+    "download": "https://raw.githubusercontent.com/fpearl/Ossara-Season-1/refs/heads/main/ossara-season-1.zip"
   }
