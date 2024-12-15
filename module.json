@@ -1,0 +1,83 @@
+{
+    "id": "ossara-season-1",
+    "name": "ossara-season-1",
+    "title": "Driftworld Ossara Season One",
+    "description": "Essential content for driftworld Ossara.",
+    "version": "1.1.0",
+    "authors": [
+        {
+            "name": "Frederic Pearl",
+            "discord": "DrDebruyere",
+            "url": "https://www.foundryonline.net/"
+        }
+    ],
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "12"
+    },
+    "styles": [
+    	"./style/ossara-style.css"
+  	],
+    "packs": [
+        {
+            "name": "module-creatures",
+            "label": "Ossara Creatures",
+            "path": "./packs/creatures.db",
+            "type": "Actor",
+            "system": "swade"
+        },
+        {
+            "name": "module-items",
+            "label": "Ossara Items",
+            "path": "./packs/items.db",
+            "type": "Item",
+            "system": "swade"
+        },
+        {
+            "name": "module-scenes",
+            "label": "Ossara Scenes",
+            "path": "./packs/scenes.db",
+            "type": "Scene"
+        },
+        {
+            "name": "module-journal-entries",
+            "label": "Ossara Library Contents",
+            "path": "./packs/journal-entries.db",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "module-journal-entries-ii",
+            "label": "Ossara Journal Entries II",
+            "path": "./packs/journal-entries-ii.db",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "module-macros",
+            "label": "Ossara Macros",
+            "path": "./packs/macros.db",
+            "type": "Macro"
+        },
+        {
+            "name": "module-roll-tables",
+            "label": "Ossara Roll Tables",
+            "path": "./packs/roll-tables.db",
+            "type": "RollTable"
+        },
+        {
+            "name": "module-playlists",
+            "label": "Ossara Playlists",
+            "path": "./packs/playlists.db",
+            "type": "Playlist"
+        },
+        {
+            "name": "module-adventures",
+            "label": "Ossara Adventures",
+            "path": "./packs/adventures.db",
+            "type": "Adventure"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
